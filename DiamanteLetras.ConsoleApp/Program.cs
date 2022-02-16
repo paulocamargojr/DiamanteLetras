@@ -27,7 +27,7 @@ namespace DiamanteLetras.ConsoleApp
                 {
                     Console.Write(alfabetoArray[i]);
                 }
-                Console.WriteLine();
+                Console.WriteLine("\n");
                 espacosMeio += 2;
                 espacos--;
             }
@@ -46,7 +46,7 @@ namespace DiamanteLetras.ConsoleApp
                 {
                     Console.Write(alfabetoArray[i]);
                 }
-                Console.WriteLine();
+                Console.WriteLine("\n");
                 espacosMeio -= 2;
                 espacos++;
             }
